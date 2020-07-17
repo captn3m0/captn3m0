@@ -1,4 +1,4 @@
-### Hi there [![We Heart Games](img/weheart-small.png)](https://weheart.github.io/) [![Reading Challenge Progress](https://img.shields.io/badge/Reading%20Challenge-17%2F40-orange)](https://www.goodreads.com/challenges/11621)
+### Hi there [![We Heart Games](weheart-small.png)](https://weheart.github.io/) [![Reading Challenge Progress](https://img.shields.io/badge/Reading%20Challenge-17%2F40-orange)](https://www.goodreads.com/challenges/11621)
 
 - I’m currently making cool things at [Recurse Center](@recurse)
 - I do security and infrastructure things at [Razorpay](@razorpay)
