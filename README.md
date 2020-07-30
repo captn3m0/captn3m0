@@ -2,7 +2,7 @@
 
 - I’m currently making cool things at [Recurse Center](https://recurse.com).
 - I do security and infrastructure things at [Razorpay](https://github.com/razorpay).
-- Ask me about boardgames, infosec, and Kubernetes.
+- Ask me about boardgames, infosec, self-hosting, and Kubernetes.
 - How to reach me: [captnemo.in/contact](https://captnemo.in/contact/).
 - Pronouns: He/him.
 - Here's my [current setup](https://captnemo.in/setup/), and my [security setup](https://captnemo.in/blog/2020/01/04/security-setup/).
