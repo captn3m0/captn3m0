@@ -1,8 +1,7 @@
 ### Hi there [![We Heart Games](https://ghcdn.rawgit.org/captn3m0/captn3m0/master/img/weheart-small.png)](https://weheart.github.io/) [![Reading Challenge Progress](https://img.shields.io/badge/Reading%20Challenge-17%2F40-orange)](https://www.goodreads.com/challenges/11621)
 
-- I’m currently making cool things at [Recurse Center](https://recurse.com).
 - I do security and infrastructure things at [Razorpay](https://github.com/razorpay).
-- Ask me about boardgames, infosec, self-hosting, and Kubernetes.
+- Ask me about boardgames, infosec, self-hosting, and Kubernetes or my time at [@recurse](https://www.recurse.com/).
 - How to reach me: [captnemo.in/contact](https://captnemo.in/contact/).
 - Pronouns: He/him.
 - Here's my [current setup](https://captnemo.in/setup/), and my [security setup](https://captnemo.in/blog/2020/01/04/security-setup/).
