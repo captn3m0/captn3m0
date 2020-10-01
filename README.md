@@ -8,6 +8,8 @@
 - Here are my various [projects](https://captnemo.in/projects/), and [talks](https://captnemo.in/talks/), and [ideas](https://github.com/captn3m0/ideas). I like [working on ebooks](https://captnemo.in/ebooks/).
 - Fun fact: I don't have an Aadhaar.
 
+<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=captn3m0&show_icons=true&line_height=20&theme=tokyonight" /></p>
+
 Here's some of my recent writing that you might like reading:
 
 - [A survey of OneCardToRuleThemAll companies](https://captnemo.in/one-card-to-rule-them-all/)
