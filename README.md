@@ -4,7 +4,7 @@
 - Ask me about boardgames, infosec, self-hosting, and Kubernetes or my time at [@recurse](https://www.recurse.com/).
 - How to reach me: [captnemo.in/contact](https://captnemo.in/contact/).
 - Pronouns: He/him.
-- Here's my [current setup](https://captnemo.in/setup/), and my [security setup](https://captnemo.in/blog/2020/01/04/security-setup/).
+- Here's my [current setup](https://captnemo.in/setup/), my [security setup](https://captnemo.in/blog/2020/01/04/security-setup/), and [my homeserver setup](https://captnemo.in/blog/2017/09/17/home-server-build/).
 - Here are my various [projects](https://captnemo.in/projects/), and [talks](https://captnemo.in/talks/), and [ideas](https://github.com/captn3m0/ideas). I like [working on ebooks](https://captnemo.in/ebooks/).
 - Fun fact: I don't have an Aadhaar.
 
