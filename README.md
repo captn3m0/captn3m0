@@ -21,3 +21,5 @@ A few twitter threads:
 - [Hotstar's differential pricing strategy](https://twitter.com/captn3m0/status/1375483543392972800) and why I think its bad.
 - [Cool dev tools](https://twitter.com/captn3m0/status/1272166319274594304)
 - [Help revive RSS (Really Simple Syndication)](https://twitter.com/captn3m0/status/1018850458675408902)
+
+You can find a mirror of most of my code on [git.captnemo.in](https://git.captnemo.in/)
