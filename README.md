@@ -22,4 +22,4 @@ A few twitter threads:
 - [Cool dev tools](https://twitter.com/captn3m0/status/1272166319274594304)
 - [Help revive RSS (Really Simple Syndication)](https://twitter.com/captn3m0/status/1018850458675408902)
 
-You can find a mirror of most of my code on [git.captnemo.in](https://git.captnemo.in/)
+You can find a mirror of most of my code on [git.captnemo.in](https://git.captnemo.in/). I have a backup GitHub account @captnemo.
