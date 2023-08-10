@@ -1,6 +1,6 @@
-### Hi there [![We Heart Games](https://gitcdn.xyz/cdn/captn3m0/captn3m0/master/img/weheart-small.png)](https://weheart.github.io/) [![Reading Challenge Progress](https://img.shields.io/badge/Reading%20Challenge-12%2F20-orange)](https://www.goodreads.com/user_challenges/44555641) [:books:](https://books.captnemo.in) [:game_die:](https://boardgames.captnemo.in) [:elephant:](https://tatooine.club/@nemo)
+### Hi there [![We Heart Games](https://gitcdn.xyz/cdn/captn3m0/captn3m0/master/img/weheart-small.png)](https://weheart.github.io/) [![Reading Challenge Progress](https://img.shields.io/badge/Reading%20Challenge-16%2F20-orange)](https://www.goodreads.com/user_challenges/44555641) [:books:](https://books.captnemo.in) [:game_die:](https://boardgames.captnemo.in) [:elephant:](https://tatooine.club/@nemo)
 
-- I do security, infrastructure, and open-source things at [Razorpay](https://github.com/razorpay).
+- I did security, infrastructure, and open-source things at [Razorpay](https://github.com/razorpay).
 - Ask me about boardgames, infosec, self-hosting, and Kubernetes or my time at [@recurse](https://www.recurse.com/).
 - How to reach me: [captnemo.in/contact](https://captnemo.in/contact/).
 - Pronouns: He/him.
